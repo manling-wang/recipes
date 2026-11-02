@@ -1,0 +1,727 @@
+[
+ {
+  "name": "糖",
+  "store": "Amazon",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵",
+   "地三鲜",
+   "鱼香茄子",
+   "黄焖鸡",
+   "黑椒杏鲍菇牛肉粒",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "玉米",
+  "store": "BJ's",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "菠菜",
+  "store": "BJ's",
+  "category": "果蔬",
+  "used_in": [
+   "上汤菠菜"
+  ]
+ },
+ {
+  "name": "Sea food blender",
+  "store": "Trader Joe's",
+  "category": "海鲜",
+  "used_in": [
+   "韩式海鲜饼"
+  ]
+ },
+ {
+  "name": "中筋面粉",
+  "store": "Trader Joe's",
+  "category": "其他",
+  "used_in": [
+   "韩式海鲜饼",
+   "鸡蛋水饼"
+  ]
+ },
+ {
+  "name": "土豆",
+  "store": "Trader Joe's",
+  "category": "果蔬",
+  "used_in": [
+   "地三鲜",
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "奶油生菜",
+  "store": "Trader Joe's",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "小苏打",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "椰子水",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "泡打粉",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "韩式海鲜饼"
+  ]
+ },
+ {
+  "name": "火腿片",
+  "store": "Trader Joe's",
+  "category": "肉类",
+  "used_in": [
+   "鸡汤米线",
+   "鸡蛋水饼"
+  ]
+ },
+ {
+  "name": "牛肉",
+  "store": "Trader Joe's",
+  "category": "肉类",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "玉米淀粉",
+  "store": "Trader Joe's",
+  "category": "其他",
+  "used_in": [
+   "地三鲜",
+   "韩式海鲜饼",
+   "鱼香茄子",
+   "黑椒杏鲍菇牛肉粒",
+   "蟹粉豆腐"
+  ]
+ },
+ {
+  "name": "甜椒",
+  "store": "Trader Joe's",
+  "category": "果蔬",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "花生酱",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "鸡汤米线",
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "豆腐",
+  "store": "Trader Joe's",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "贝柱",
+  "store": "Trader Joe's",
+  "category": "海鲜",
+  "used_in": [
+   "贝柱蒸蛋"
+  ]
+ },
+ {
+  "name": "食用油",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "上汤菠菜",
+   "凉拌芥末秋葵",
+   "地三鲜",
+   "蒜香杏鲍菇",
+   "贝柱蒸蛋",
+   "鱼香茄子",
+   "鸡蛋水饼",
+   "黑椒杏鲍菇牛肉粒",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "食盐",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "上汤菠菜",
+   "地三鲜",
+   "脆皮琵琶腿",
+   "贝柱蒸蛋",
+   "韩式海鲜饼",
+   "鸡蛋水饼",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "鸡汤",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "鸡汤米线"
+  ]
+ },
+ {
+  "name": "鸡蛋",
+  "store": "Trader Joe's",
+  "category": "蛋奶",
+  "used_in": [
+   "贝柱蒸蛋",
+   "韩式海鲜饼",
+   "鸡蛋水饼"
+  ]
+ },
+ {
+  "name": "黄油",
+  "store": "Trader Joe's",
+  "category": "蛋奶",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "黑胡椒",
+  "store": "Trader Joe's",
+  "category": "调料",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "椰肉",
+  "store": "Whole Foods",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "鸡",
+  "store": "Whole Foods",
+  "category": "肉类",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "蒸鱼豉油",
+  "store": "其他",
+  "category": "调料",
+  "used_in": [
+   "贝柱蒸蛋"
+  ]
+ },
+ {
+  "name": "午餐肉",
+  "store": "华人超市",
+  "category": "肉类",
+  "used_in": [
+   "上汤菠菜"
+  ]
+ },
+ {
+  "name": "咸鸭蛋",
+  "store": "华人超市",
+  "category": "蛋奶",
+  "used_in": [
+   "上汤菠菜"
+  ]
+ },
+ {
+  "name": "好人家黄焖鸡酱",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "姜",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "鱼香茄子",
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "小米辣",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "凉拌芥末秋葵",
+   "鱼香茄子",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "小茴香",
+  "store": "华人超市",
+  "category": "其他",
+  "used_in": [
+   "脆皮琵琶腿"
+  ]
+ },
+ {
+  "name": "杏鲍菇",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "蒜香杏鲍菇",
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "枸杞",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "椒盐粉",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "鸡蛋水饼"
+  ]
+ },
+ {
+  "name": "泡椒",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "鱼香茄子"
+  ]
+ },
+ {
+  "name": "泡菜",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "韩式海鲜饼"
+  ]
+ },
+ {
+  "name": "烧烤粉",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "蒜香杏鲍菇"
+  ]
+ },
+ {
+  "name": "猪肉片",
+  "store": "华人超市",
+  "category": "肉类",
+  "used_in": [
+   "鱼香茄子"
+  ]
+ },
+ {
+  "name": "琵琶腿",
+  "store": "华人超市",
+  "category": "肉类",
+  "used_in": [
+   "脆皮琵琶腿"
+  ]
+ },
+ {
+  "name": "生抽",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵",
+   "地三鲜",
+   "韩式海鲜饼",
+   "鱼香茄子",
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "白胡椒粉",
+  "store": "华人超市",
+  "category": "其他",
+  "used_in": [
+   "上汤菠菜",
+   "韩式海鲜饼",
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "白芝麻",
+  "store": "华人超市",
+  "category": "其他",
+  "used_in": [
+   "凉拌芥末秋葵",
+   "韩式海鲜饼",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "白醋",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "脆皮琵琶腿"
+  ]
+ },
+ {
+  "name": "皮蛋",
+  "store": "华人超市",
+  "category": "蛋奶",
+  "used_in": [
+   "上汤菠菜"
+  ]
+ },
+ {
+  "name": "秋葵",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "凉拌芥末秋葵"
+  ]
+ },
+ {
+  "name": "笋",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "米线",
+  "store": "华人超市",
+  "category": "其他",
+  "used_in": [
+   "鸡汤米线"
+  ]
+ },
+ {
+  "name": "米酒",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "韩式海鲜饼"
+  ]
+ },
+ {
+  "name": "红枣",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "线椒",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "老抽",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "地三鲜",
+   "鱼香茄子",
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "芝麻油",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵"
+  ]
+ },
+ {
+  "name": "芥末",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵"
+  ]
+ },
+ {
+  "name": "茄子",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "地三鲜",
+   "鱼香茄子"
+  ]
+ },
+ {
+  "name": "葱",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡",
+   "蒜香杏鲍菇",
+   "贝柱蒸蛋",
+   "韩式海鲜饼",
+   "鱼香茄子",
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "葱油",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵"
+  ]
+ },
+ {
+  "name": "蒜",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "上汤菠菜",
+   "凉拌芥末秋葵",
+   "地三鲜",
+   "蒜香杏鲍菇",
+   "鱼香茄子",
+   "黑椒杏鲍菇牛肉粒",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "蒜粉",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "黑椒杏鲍菇牛肉粒"
+  ]
+ },
+ {
+  "name": "虫草花",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "虾",
+  "store": "华人超市",
+  "category": "海鲜",
+  "used_in": [
+   "上汤菠菜"
+  ]
+ },
+ {
+  "name": "蚝油",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵",
+   "地三鲜",
+   "鱼香茄子",
+   "黑椒杏鲍菇牛肉粒",
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "醋",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "鱼香茄子"
+  ]
+ },
+ {
+  "name": "青椒",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "地三鲜",
+   "鱼香茄子",
+   "鸡蛋水饼"
+  ]
+ },
+ {
+  "name": "青红辣椒",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "韭菜",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "鸡汤米线"
+  ]
+ },
+ {
+  "name": "香菇",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "马蹄",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "鲜露",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌芥末秋葵"
+  ]
+ },
+ {
+  "name": "鸡精",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "上汤菠菜"
+  ]
+ },
+ {
+  "name": "鸡腿",
+  "store": "华人超市",
+  "category": "肉类",
+  "used_in": [
+   "黄焖鸡"
+  ]
+ },
+ {
+  "name": "小青柠",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "沙姜",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "椰子鸡"
+  ]
+ },
+ {
+  "name": "贡菜",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "魔芋",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "千层肚",
+  "store": "华人超市",
+  "category": "肉类",
+  "used_in": [
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "辣椒粉",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "花椒粉",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "陈醋",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "凉拌三脆"
+  ]
+ },
+ {
+  "name": "内酯豆腐",
+  "store": "Trader Joe's",
+  "category": "果蔬",
+  "used_in": [
+   "蟹粉豆腐"
+  ]
+ },
+ {
+  "name": "蟹黄豆腐料包",
+  "store": "华人超市",
+  "category": "调料",
+  "used_in": [
+   "蟹粉豆腐"
+  ]
+ },
+ {
+  "name": "青豌豆",
+  "store": "华人超市",
+  "category": "果蔬",
+  "used_in": [
+   "蟹粉豆腐"
+  ]
+ },
+ {
+  "name": "虾仁",
+  "store": "华人超市",
+  "category": "海鲜",
+  "used_in": [
+   "蟹粉豆腐"
+  ]
+ }
+]
